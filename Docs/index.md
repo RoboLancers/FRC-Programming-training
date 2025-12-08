@@ -1,4 +1,4 @@
-## Usage
+# Usage
 
 Each link down below corresponds to one "course".
 Each page will have a brief description of the topic and may include links to other resources.

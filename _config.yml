@@ -1,14 +1,9 @@
-title: Robolancers Programming Training
-description: Information and tutorials for training new FRC programmers.
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
-plugins:
-  - jekyll-default-layout
+title: Robolancer Programming Training
+description: Repository for FRC Programming training for FRC teams 321 and 427.
+theme: just-the-docs
 
-# Navigation
-# List links that should appear in the site sidebar here
-navigation:
-  - text: Information
-    internal: true
-    url: ./Docs
+url: https://robolancers.github.io/FRC-Programming-training/https://just-the-docs.github.io
+
+aux_links:
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+

@@ -1,3 +1,8 @@
+---
+title: Home
+layout: home
+---
+
 # Usage
 
 Each link down below corresponds to one "course".

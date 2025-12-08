@@ -1,7 +1,7 @@
 title: Robolancer Programming Training
 description: Repository for FRC Programming training for FRC teams 321 and 427.
-theme: jekyll-theme-minimal
-# theme: just-the-docs
+#theme: jekyll-theme-minimal
+theme: just-the-docs
 color_scheme: dark
 url: https://robolancers.github.io/FRC-Programming-training/
 

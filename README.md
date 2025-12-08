@@ -1,5 +1,7 @@
 # Robot Software Training Materials
 
+[GitHub pages link to Docs](https://robolancers.github.io/FRC-Programming-training/)
+
 ## Philosophy
 
 This repository is set up mainly as an organized set of resources for robot software training for FRC team 321, The Robolancers.

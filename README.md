@@ -19,4 +19,3 @@ If you feel that this material is too fast or too much, talk to your lead or a m
 We are happy to help break things down more, explain it differently, or prepare additional materials as needed.
 This repository is a living resource, and feedback is crucial to improving it (this is also why we try to get you doing hands-on work as fast as you are comfortable with it!)
 
-

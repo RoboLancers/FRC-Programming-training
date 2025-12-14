@@ -1,9 +1,8 @@
 ---
-name: architecture
+title: architecture
 layout: default
 order: 6
 has_children: true
-
 ---
 # Architecture
 

@@ -53,7 +53,7 @@ I also split the shooter into flywheels and the pivot for cleanliness.
 To set up the superstructure, I wrote out all the states that the robot would be in and the edges between them.
 This is the original state machine I worked from.
 
-<img alt="Banshee State Machine" src="../Assets/banshee-state-machine.png" width="400" height="400">
+<img alt="Banshee State Machine" src="../assets/banshee-state-machine.png" width="400" height="400">
 
 And this is a cleaned up version from the final code.
 

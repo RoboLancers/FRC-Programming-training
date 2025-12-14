@@ -2,7 +2,6 @@
 title: General Info
 layout: default
 nav_order: 2
-has_children: true
 ---
 
 # General info
